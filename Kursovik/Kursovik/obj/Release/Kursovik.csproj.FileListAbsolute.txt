@@ -1,0 +1,211 @@
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\Kursovik.exe.config
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\Kursovik.exe
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\Kursovik.pdb
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\EntityFramework.dll
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\MaterialDesignColors.dll
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\NPOI.dll
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\NPOI.OOXML.dll
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\NPOI.OpenXml4Net.dll
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\System.Data.SQLite.dll
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\EntityFramework.xml
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\ICSharpCode.SharpZipLib.pdb
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\MaterialDesignColors.pdb
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\NPOI.pdb
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\NPOI.xml
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\NPOI.OOXML.pdb
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\NPOI.OOXML.xml
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\NPOI.OpenXml4Net.pdb
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\NPOI.OpenXmlFormats.pdb
+C:\Users\Hello\Desktop\Kursovik\Kursovik\bin\Release\System.Data.SQLite.xml
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\Edit.baml
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\Menu.baml
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\Themes\BureauBlack.baml
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\Themes\BureauBlue.baml
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\Themes\ExpressionDark.baml
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\Themes\ExpressionLight.baml
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\Themes\ShinyBlue.baml
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\Themes\ShinyRed.baml
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\Themes\WhistlerBlue.baml
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\AddStudent.g.cs
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\Edit.g.cs
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\Menu.g.cs
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\Otchet.g.cs
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\StudentsList.g.cs
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\StudentsArchieve.g.cs
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\TestCreator.g.cs
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\Tests.g.cs
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\App.g.cs
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\Kursovik_MarkupCompile.cache
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\Kursovik_MarkupCompile.lref
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\App.baml
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\AddStudent.baml
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\Otchet.baml
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\StudentsList.baml
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\StudentsArchieve.baml
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\TestCreator.baml
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\Tests.baml
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\Kursovik.g.resources
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\Kursovik.Properties.Resources.resources
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\Kursovik.csproj.GenerateResource.cache
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\Kursovik.csproj.CoreCompileInputs.cache
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\Kursovik.csproj.CopyComplete
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\Kursovik.exe
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\Kursovik.pdb
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\Kursovik.csproj.AssemblyReference.cache
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\AddCourse.g.cs
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\AddGroup.g.cs
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\AddCourse.baml
+C:\Users\Hello\Desktop\Kursovik\Kursovik\obj\Release\AddGroup.baml
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\Kursovik.exe.config
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\Kursovik.exe
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\Kursovik.pdb
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\EntityFramework.dll
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\MaterialDesignColors.dll
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\NPOI.dll
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\NPOI.OOXML.dll
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\NPOI.OpenXml4Net.dll
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\System.Data.SQLite.dll
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\EntityFramework.xml
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\ICSharpCode.SharpZipLib.pdb
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\MaterialDesignColors.pdb
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\NPOI.pdb
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\NPOI.xml
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\NPOI.OOXML.pdb
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\NPOI.OOXML.xml
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\NPOI.OpenXml4Net.pdb
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\NPOI.OpenXmlFormats.pdb
+C:\Users\denis\Desktop\Kursovik\Kursovik\bin\Release\System.Data.SQLite.xml
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Kursovik.csproj.AssemblyReference.cache
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Kursovik.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Edit.baml
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Menu.baml
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Themes\BureauBlack.baml
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Themes\BureauBlue.baml
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Themes\ExpressionDark.baml
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Themes\ExpressionLight.baml
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Themes\ShinyBlue.baml
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Themes\ShinyRed.baml
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Themes\WhistlerBlue.baml
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\AddCourse.g.cs
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\AddGroup.g.cs
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\AddStudent.g.cs
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Edit.g.cs
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Menu.g.cs
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Otchet.g.cs
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\StudentsList.g.cs
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\StudentsArchieve.g.cs
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\TestCreator.g.cs
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Tests.g.cs
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\App.g.cs
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Kursovik_MarkupCompile.cache
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Kursovik_MarkupCompile.lref
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\App.baml
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\AddCourse.baml
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\AddGroup.baml
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\AddStudent.baml
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Otchet.baml
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\StudentsList.baml
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\StudentsArchieve.baml
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\TestCreator.baml
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Tests.baml
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Kursovik.g.resources
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Kursovik.Properties.Resources.resources
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Kursovik.csproj.GenerateResource.cache
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Kursovik.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Kursovik.csproj.CopyComplete
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Kursovik.exe
+C:\Users\denis\Desktop\Kursovik\Kursovik\obj\Release\Kursovik.pdb
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\Kursovik.exe.config
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\Kursovik.exe
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\Kursovik.pdb
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\EntityFramework.dll
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\MaterialDesignColors.dll
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\NPOI.dll
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\NPOI.OOXML.dll
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\NPOI.OpenXml4Net.dll
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\System.Data.SQLite.dll
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\EntityFramework.xml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\ICSharpCode.SharpZipLib.pdb
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\MaterialDesignColors.pdb
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\NPOI.pdb
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\NPOI.xml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\NPOI.OOXML.pdb
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\NPOI.OOXML.xml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\NPOI.OpenXml4Net.pdb
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\NPOI.OpenXmlFormats.pdb
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\bin\Release\System.Data.SQLite.xml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\Kursovik.csproj.AssemblyReference.cache
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\Edit.baml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\Menu.baml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\Themes\BureauBlack.baml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\Themes\BureauBlue.baml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\Themes\ExpressionDark.baml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\Themes\ExpressionLight.baml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\Themes\ShinyBlue.baml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\Themes\ShinyRed.baml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\Themes\WhistlerBlue.baml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\AddCourse.g.cs
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\AddGroup.g.cs
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\AddStudent.g.cs
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\Edit.g.cs
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\Menu.g.cs
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\Otchet.g.cs
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\StudentsList.g.cs
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\StudentsArchieve.g.cs
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\TestCreator.g.cs
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\Tests.g.cs
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\App.g.cs
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\Kursovik_MarkupCompile.cache
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\Kursovik_MarkupCompile.lref
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\App.baml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\AddCourse.baml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\AddGroup.baml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\AddStudent.baml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\Otchet.baml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\StudentsList.baml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\StudentsArchieve.baml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\TestCreator.baml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\Tests.baml
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\Kursovik.g.resources
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\Kursovik.Properties.Resources.resources
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\Kursovik.csproj.GenerateResource.cache
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\Kursovik.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\Kursovik.csproj.CopyComplete
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\Kursovik.exe
+C:\Users\denis\Desktop\Новая папка (4)\Kursovik\Kursovik\obj\Release\Kursovik.pdb
